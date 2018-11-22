@@ -1,0 +1,7 @@
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\bin\Debug\E5_1.Bubble_Sort.exe.config
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\bin\Debug\E5_1.Bubble_Sort.exe
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\bin\Debug\E5_1.Bubble_Sort.pdb
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\obj\Debug\E5-1. Bubble Sort.csprojResolveAssemblyReference.cache
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\obj\Debug\E5-1. Bubble Sort.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\obj\Debug\E5_1.Bubble_Sort.exe
+c:\users\cesar\source\repos\E5-1. Bubble Sort\E5-1. Bubble Sort\obj\Debug\E5_1.Bubble_Sort.pdb
