@@ -1,0 +1,6 @@
+c:\users\cesar\source\repos\5-2. QuickSortt\5-2. QuickSortt\bin\Debug\_5_2.QuickSortt.exe.config
+c:\users\cesar\source\repos\5-2. QuickSortt\5-2. QuickSortt\bin\Debug\_5_2.QuickSortt.exe
+c:\users\cesar\source\repos\5-2. QuickSortt\5-2. QuickSortt\bin\Debug\_5_2.QuickSortt.pdb
+c:\users\cesar\source\repos\5-2. QuickSortt\5-2. QuickSortt\obj\Debug\5-2. QuickSortt.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\5-2. QuickSortt\5-2. QuickSortt\obj\Debug\_5_2.QuickSortt.exe
+c:\users\cesar\source\repos\5-2. QuickSortt\5-2. QuickSortt\obj\Debug\_5_2.QuickSortt.pdb
