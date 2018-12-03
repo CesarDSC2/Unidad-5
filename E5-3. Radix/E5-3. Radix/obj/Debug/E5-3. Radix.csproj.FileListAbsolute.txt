@@ -1,0 +1,7 @@
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\bin\Debug\E5_3.Radix.exe.config
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\bin\Debug\E5_3.Radix.exe
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\bin\Debug\E5_3.Radix.pdb
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\obj\Debug\E5-3. Radix.csprojResolveAssemblyReference.cache
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\obj\Debug\E5-3. Radix.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\obj\Debug\E5_3.Radix.exe
+c:\users\cesar\source\repos\E5-3. Radix\E5-3. Radix\obj\Debug\E5_3.Radix.pdb
