@@ -1,0 +1,6 @@
+c:\users\cesar\source\repos\P3. Examen\P3. Examen\bin\Debug\P3.Examen.exe.config
+c:\users\cesar\source\repos\P3. Examen\P3. Examen\bin\Debug\P3.Examen.exe
+c:\users\cesar\source\repos\P3. Examen\P3. Examen\bin\Debug\P3.Examen.pdb
+c:\users\cesar\source\repos\P3. Examen\P3. Examen\obj\Debug\P3. Examen.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\P3. Examen\P3. Examen\obj\Debug\P3.Examen.exe
+c:\users\cesar\source\repos\P3. Examen\P3. Examen\obj\Debug\P3.Examen.pdb
