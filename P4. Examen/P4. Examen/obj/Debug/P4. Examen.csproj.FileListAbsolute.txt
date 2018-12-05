@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\bin\Debug\P4.Examen.exe.config
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\bin\Debug\P4.Examen.exe
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\bin\Debug\P4.Examen.pdb
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\obj\Debug\P4. Examen.csprojResolveAssemblyReference.cache
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\obj\Debug\P4. Examen.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\obj\Debug\P4.Examen.exe
+C:\Users\cesar\source\repos\P4. Examen\P4. Examen\obj\Debug\P4.Examen.pdb
